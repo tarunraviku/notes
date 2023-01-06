@@ -1,0 +1,13 @@
+Commands:
+
+pwd- shows path name of current director
+ls- shows a list of all files within the directory
+cd- Allows you to move between directories
+cd .. - Allows you to move backwards between directories
+cd ~ -  Brings you back to main directory
+clear- Clears screen
+open - Opens a specific file (ex. jpg, py)
+touch (txt file name)- Creates an .txt file
+nano - opens a text file and allows you to edit through the terminal.
+rm - removes a file from a directory
+mkdir- Creates a new directory
